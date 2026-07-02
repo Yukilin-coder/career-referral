@@ -43,7 +43,13 @@ results = scrape_linkedin_referrals(
 
 ## 输出示例
 
-Excel表格包含以下列：
+Excel表格按优先级排序，HR和岗位匹配的人会排在前面：
+
+![输出示例](reference/demo-screenshot.png)
+
+*以上为模拟数据，仅用于展示表格格式*
+
+表格包含以下列：
 
 | 列名 | 说明 |
 |------|------|
