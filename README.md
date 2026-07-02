@@ -5,9 +5,9 @@
 <img src="https://img.shields.io/badge/Playwright-Automation-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 
-# Career Referral
+# LinkedIn 内推专家
 
-### LinkedIn 内推人脉智能挖掘助手
+### 不靠自己投，让对的人帮你递简历
 
 > 输入学校 + 目标公司，自动挖出可内推的人，附带可直接复制的话术模板
 
